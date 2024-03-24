@@ -1,6 +1,6 @@
-# Discord Clone
+# CommuniHub
 
-This is an end-to-end fullstack and real-time Discord clone application with a range of features, including servers, channels, video calls, audio calls, message editing and deletion, and member roles.
+This is an end-to-end fullstack and real-time communication platform with a range of features, including servers, channels, video calls, audio calls, message editing and deletion, and member roles.
 
 ## Quick Video Walkthrough
 https://github.com/akeeb2002/discord/assets/90944924/2659b242-1310-48c5-a6c0-9a5405063409
